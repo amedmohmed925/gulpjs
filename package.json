@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "static-server": "^2.2.1"
+  },
+  "name": "testgulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2"
+  }
+}

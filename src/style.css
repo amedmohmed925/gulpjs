@@ -1,0 +1,15 @@
+h2{
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 16px;
+}
+
+div{
+    width: 500px;
+    margin: 0 auto;
+}
